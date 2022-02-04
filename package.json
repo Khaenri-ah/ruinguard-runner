@@ -1,0 +1,18 @@
+{
+  "name": "runner",
+  "type": "module",
+  "version": "1.0.0",
+  "decription": "",
+  "exports": "./index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@ruinguard/core": "^1.1.0",
+    "commander": "^9.0.0",
+    "ora": "^6.0.1",
+    "yaml": "^1.10.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.8.0",
+    "eslint-config-ruinguard": "^1.0.0"
+  }
+}
